@@ -1,0 +1,18 @@
+.product {
+    border: 1px solid #ccc;
+    width: 250px;
+    // height: 120px;
+    font-size: 20px;
+    padding: 25px 45px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    button {
+        cursor: pointer;
+        background: none;
+        outline: none;
+        border: 1px solid #ccc;
+        padding: 5px 10px;
+
+    }
+}
